@@ -1,0 +1,8 @@
+Window_size = 3
+Lambda = 100
+Time Taken = 154
+
+
+
+
+

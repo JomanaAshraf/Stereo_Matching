@@ -1,0 +1,2 @@
+Window_size = 5
+Time Taken = 153
