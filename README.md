@@ -1,3 +1,5 @@
+# Stereo_Matching
+___
 This assignment consists of 3 main codes to evaluate the naive approach and the dynamic progamming approach for displaying the disparity map as well as the third one is for computing the surface normal and 3D triangulation.
 
 * In order to run the naive program, the terminal should be written in it:
@@ -16,3 +18,7 @@ This assignment consists of 3 main codes to evaluate the naive approach and the 
 (downsampling voxel size) (radius of ball pivoting) (path of the point cloud generated from DP) 
 (name of the output file with extension xyzn)
 ```
+___
+## **Documentation**
+
+In order to see the full results of the task; you can access the **Assig1_Documentation.pdf**
