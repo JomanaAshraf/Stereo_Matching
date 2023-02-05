@@ -1,4 +1,0 @@
-/home/jomana/masters_ws/src/Studying/Semester_3/3D_Sensing/Tutorials/Tutorial_1/01_naive_stereo/build/CMakeFiles/rebuild_cache.dir
-/home/jomana/masters_ws/src/Studying/Semester_3/3D_Sensing/Tutorials/Tutorial_1/01_naive_stereo/build/CMakeFiles/edit_cache.dir
-/home/jomana/masters_ws/src/Studying/Semester_3/3D_Sensing/Tutorials/Tutorial_1/01_naive_stereo/build/CMakeFiles/OpenCV_DP_stereo.dir
-/home/jomana/masters_ws/src/Studying/Semester_3/3D_Sensing/Tutorials/Tutorial_1/01_naive_stereo/build/CMakeFiles/OpenCV_naive_stereo.dir
